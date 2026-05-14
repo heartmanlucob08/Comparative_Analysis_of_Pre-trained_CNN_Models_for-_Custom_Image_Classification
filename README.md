@@ -1,1 +1,6 @@
-# Comparative_Analysis_of_Pre-trained_CNN_Models_for-_Custom_Image_Classification
+## 🔗 Google Colab Notebook
+
+You can view and run the full implementation of this project using Google Colab:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1GSN5m4eBcEtQJnutJKQdnCdKwEwbGDDx?usp=sharing)
+
